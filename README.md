@@ -1,0 +1,1 @@
+Angular2 种子程序，包含webpack配置， typescript 配置，和scss 相关的配置，开箱即用
